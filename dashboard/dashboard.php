@@ -18,7 +18,7 @@ if (!isset($_SESSION['username'])) {
         <a href="logout.php">Wyloguj</a>
 
         <br><br>
-        <img src="pibble.jpg" alt="pibble">
+        <img src="images/pibble.jpg" alt="pibble">
     </div>
 </body>
 </html>
