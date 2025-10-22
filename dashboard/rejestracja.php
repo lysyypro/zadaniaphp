@@ -14,7 +14,7 @@ $captchaQuestion = $_SESSION['captcha_question'];
 <head>
     <meta charset="UTF-8">
     <title>Rejestracja</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="style/styles.css">
 </head>
 <body>
     <h2>Rejestracja</h2>
