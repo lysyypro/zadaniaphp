@@ -11,7 +11,7 @@ if (isset($_SESSION['username'])) {
 <head>
     <meta charset="UTF-8">
     <title>Logowanie</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="style/styles.css">
 </head>
 <body>
     <h2>Logowanie</h2>
